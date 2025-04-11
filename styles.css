@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://images.app.goo.gl/fqhLgruXzcvH4RYL6'); /* Rasmni joylashtiring */
+    background-size: cover; /* Rasmni butun sahifaga moslab o'lchamini o'zgartirish */
+    background-position: center; /* Rasmni markazga joylashtirish */
+    color: white; /* Matn rangini oq qilish */
+    font-family: Arial, sans-serif; /* Shrift o'rnatish */
+    text-align: center; /* Matnni markazga joylashtirish */
+    padding: 50px;
+}
